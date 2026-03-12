@@ -1,1 +1,0 @@
-git-clone https://github.com/songyuew/phishing_demo.git
